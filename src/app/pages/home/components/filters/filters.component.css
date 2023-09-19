@@ -1,0 +1,3 @@
+::ng-deep .mat-mdc-list-option .mdc-radio {
+    display: none !important;
+}

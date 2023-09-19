@@ -1,0 +1,8 @@
+::ng-deep .quantity {
+   margin-bottom: 10px;
+}
+::ng-deep #quantity{
+
+   margin-top: 15px;
+   padding: 0px;
+}
